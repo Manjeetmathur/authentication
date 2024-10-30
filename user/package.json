@@ -2,7 +2,7 @@
   "name": "user",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://mern-authenticaton-backend.vercel.app/?vercelToolbarCode=BHBR1Wi4RbfXWSw",
+  "proxy": "https://authentication-backend-self.vercel.app/?vercelToolbarCode=UqRu9fCELH0hPb_",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
